@@ -1,3 +1,7 @@
+# Dominion
+
+## Mise en place
+
 deck depart 10 cartes
 
 On a des cuivres et des points de depart
@@ -22,6 +26,8 @@ Chaque carte a un pouvoir different
 
 On peut les lire en faisant click droit dessus ou en appuyant sur le bouton Royaume en haut a gauche
 
+## Deroulement
+
 A chaque tour on va prendre 5 cartes de notre pioche et les jouer
 
 Si on les joue pas, elles sont defaussees
@@ -33,5 +39,7 @@ Y'a des cartes qui permettent de jouer
 - plus de cartes (+X Cartes)
 - qui rapportent des sous (+(X))
 Et y'a d'autres actions plus specifiques
+
+## Fin de partie
 
 La partie se termine quand y'a plus de cartes provinces ou 3 actions ne sont plus dispo
